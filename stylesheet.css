@@ -24,7 +24,8 @@
 }
 .cont {
 	width: 50%;
-	height: 200px;
+	height: auto;
+	min-height: 100%;
 	background-color: #228B22; 
 	opacity: 0.95;
 	text-align: center;
